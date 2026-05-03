@@ -1,0 +1,894 @@
+[2026-03-27 21:29:20] INFO: ✓ All required environment variables are set
+[2026-03-27 21:29:22] INFO: ✓ Server running on port 5000
+[2026-03-27 21:29:22] INFO: ✓ Environment: development
+[2026-03-27 21:29:23] INFO: ✓ All required environment variables are set
+[2026-03-27 21:29:25] INFO: ✓ Server running on port 5000
+[2026-03-27 21:29:25] INFO: ✓ Environment: development
+[2026-03-27 21:43:29] INFO: ✓ All required environment variables are set
+[2026-03-27 21:43:31] INFO: ✓ Server running on port 5000
+[2026-03-27 21:43:31] INFO: ✓ Environment: development
+[2026-03-27 21:43:41] INFO: ✓ All required environment variables are set
+[2026-03-27 21:43:44] INFO: ✓ Server running on port 5000
+[2026-03-27 21:43:44] INFO: ✓ Environment: development
+[2026-03-27 22:06:04] INFO: ✓ All required environment variables are set
+[2026-03-27 22:06:06] INFO: ✓ Server running on port 5000
+[2026-03-27 22:06:06] INFO: ✓ Environment: development
+[2026-03-27 22:06:11] INFO: ✓ All required environment variables are set
+[2026-03-27 22:06:12] INFO: ✓ Server running on port 5000
+[2026-03-27 22:06:12] INFO: ✓ Environment: development
+[2026-03-29 15:11:38] INFO: ✓ All required environment variables are set
+[2026-03-29 15:11:39] ERROR: Server failed to start: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wshjqyt.mongodb.net
+[2026-04-01 17:28:49] INFO: ✓ All required environment variables are set
+[2026-04-01 17:28:51] INFO: ✓ Server running on port 5000
+[2026-04-01 17:28:51] INFO: ✓ Environment: development
+[2026-04-01 17:28:59] INFO: ✓ All required environment variables are set
+[2026-04-01 17:29:03] INFO: ✓ All required environment variables are set
+[2026-04-01 17:29:05] INFO: ✓ Server running on port 5000
+[2026-04-01 17:29:05] INFO: ✓ Environment: development
+[2026-04-01 17:30:49] INFO: ✓ All required environment variables are set
+[2026-04-01 17:30:51] INFO: ✓ Server running on port 5000
+[2026-04-01 17:30:51] INFO: ✓ Environment: development
+[2026-04-01 17:31:17] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:31:28] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:31:48] WARN: Validation failed for login: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"}]
+[2026-04-01 17:33:13] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:33:16] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:33:17] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:34:20] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:34:53] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:36:07] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:36:08] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:36:26] INFO: ✓ All required environment variables are set
+[2026-04-01 17:36:27] INFO: ✓ All required environment variables are set
+[2026-04-01 17:36:28] INFO: ✓ Server running on port 5000
+[2026-04-01 17:36:28] INFO: ✓ Environment: development
+[2026-04-01 17:36:29] INFO: ✓ All required environment variables are set
+[2026-04-01 17:36:30] INFO: ✓ Server running on port 5000
+[2026-04-01 17:36:30] INFO: ✓ Environment: development
+[2026-04-01 17:36:35] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:37:50] INFO: ✓ All required environment variables are set
+[2026-04-01 17:37:52] INFO: ✓ Server running on port 5000
+[2026-04-01 17:37:52] INFO: ✓ Environment: development
+[2026-04-01 17:38:12] INFO: ✓ All required environment variables are set
+[2026-04-01 17:38:13] INFO: ✓ Server running on port 5000
+[2026-04-01 17:38:13] INFO: ✓ Environment: development
+[2026-04-01 17:38:15] INFO: ✓ All required environment variables are set
+[2026-04-01 17:38:16] INFO: ✓ All required environment variables are set
+[2026-04-01 17:38:17] INFO: ✓ Server running on port 5000
+[2026-04-01 17:38:17] INFO: ✓ Environment: development
+[2026-04-01 17:38:20] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:39:22] INFO: ✓ All required environment variables are set
+[2026-04-01 17:39:23] INFO: ✓ All required environment variables are set
+[2026-04-01 17:39:24] INFO: ✓ Server running on port 5000
+[2026-04-01 17:39:24] INFO: ✓ Environment: development
+[2026-04-01 17:39:53] INFO: ✓ All required environment variables are set
+[2026-04-01 17:39:54] INFO: ✓ Server running on port 5000
+[2026-04-01 17:39:54] INFO: ✓ Environment: development
+[2026-04-01 17:39:58] INFO: ✓ All required environment variables are set
+[2026-04-01 17:40:01] INFO: ✓ All required environment variables are set
+[2026-04-01 17:40:03] INFO: ✓ All required environment variables are set
+[2026-04-01 17:40:11] INFO: ✓ Server running on port 5000
+[2026-04-01 17:40:11] INFO: ✓ Environment: development
+[2026-04-01 17:41:05] INFO: ✓ All required environment variables are set
+[2026-04-01 17:41:07] INFO: ✓ Server running on port 5000
+[2026-04-01 17:41:07] INFO: ✓ Environment: development
+[2026-04-01 17:41:17] INFO: ✓ All required environment variables are set
+[2026-04-01 17:41:19] INFO: ✓ Server running on port 5000
+[2026-04-01 17:41:19] INFO: ✓ Environment: development
+[2026-04-01 17:45:42] INFO: ✓ All required environment variables are set
+[2026-04-01 17:45:44] INFO: ✓ Server running on port 5000
+[2026-04-01 17:45:44] INFO: ✓ Environment: development
+[2026-04-01 17:45:45] INFO: ✓ All required environment variables are set
+[2026-04-01 17:45:47] INFO: ✓ Server running on port 5000
+[2026-04-01 17:45:47] INFO: ✓ Environment: development
+[2026-04-01 17:45:48] INFO: ✓ All required environment variables are set
+[2026-04-01 17:45:50] INFO: ✓ Server running on port 5000
+[2026-04-01 17:45:50] INFO: ✓ Environment: development
+[2026-04-01 17:47:06] INFO: ✓ All required environment variables are set
+[2026-04-01 17:47:08] INFO: ✓ Server running on port 5000
+[2026-04-01 17:47:08] INFO: ✓ Environment: development
+[2026-04-01 17:47:19] INFO: ✓ All required environment variables are set
+[2026-04-01 17:47:22] INFO: ✓ Server running on port 5000
+[2026-04-01 17:47:22] INFO: ✓ Environment: development
+[2026-04-01 17:47:44] INFO: ✓ All required environment variables are set
+[2026-04-01 17:47:51] INFO: ✓ Server running on port 5000
+[2026-04-01 17:47:51] INFO: ✓ Environment: development
+[2026-04-01 17:47:54] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 17:48:35] INFO: ✓ All required environment variables are set
+[2026-04-01 17:48:37] INFO: ✓ Server running on port 5000
+[2026-04-01 17:48:37] INFO: ✓ Environment: development
+[2026-04-01 17:48:41] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:03:14] INFO: ✓ All required environment variables are set
+[2026-04-01 18:03:16] INFO: ✓ Server running on port 5000
+[2026-04-01 18:03:16] INFO: ✓ Environment: development
+[2026-04-01 18:04:18] INFO: ✓ All required environment variables are set
+[2026-04-01 18:04:20] INFO: ✓ Server running on port 5000
+[2026-04-01 18:04:20] INFO: ✓ Environment: development
+[2026-04-01 18:04:24] INFO: ✓ All required environment variables are set
+[2026-04-01 18:04:28] INFO: ✓ Server running on port 5000
+[2026-04-01 18:04:28] INFO: ✓ Environment: development
+[2026-04-01 18:04:28] INFO: ✓ All required environment variables are set
+[2026-04-01 18:04:50] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:04:55] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:04:58] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:04:59] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:05:22] WARN: Client error: Invalid email or password
+[2026-04-01 18:06:17] INFO: ✓ All required environment variables are set
+[2026-04-01 18:06:19] INFO: ✓ Server running on port 5000
+[2026-04-01 18:06:19] INFO: ✓ Environment: development
+[2026-04-01 18:06:27] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:06:31] WARN: Validation failed for login: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"}]
+[2026-04-01 18:06:34] WARN: Validation failed for login: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"}]
+[2026-04-01 18:06:35] WARN: Validation failed for login: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"}]
+[2026-04-01 18:06:57] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:07:11] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:08:58] INFO: ✓ All required environment variables are set
+[2026-04-01 18:09:29] WARN: Client error: Email already in use
+[2026-04-01 18:09:41] WARN: Client error: Email already in use
+[2026-04-01 18:10:10] WARN: Client error: Email already in use
+[2026-04-01 18:10:49] INFO: ✓ All required environment variables are set
+[2026-04-01 18:10:51] INFO: ✓ All required environment variables are set
+[2026-04-01 18:10:52] INFO: ✓ Server running on port 5000
+[2026-04-01 18:10:52] INFO: ✓ Environment: development
+[2026-04-01 18:10:59] INFO: ✓ All required environment variables are set
+[2026-04-01 18:11:01] INFO: ✓ Server running on port 5000
+[2026-04-01 18:11:01] INFO: ✓ Environment: development
+[2026-04-01 18:11:01] INFO: ✓ All required environment variables are set
+[2026-04-01 18:11:03] INFO: ✓ Server running on port 5000
+[2026-04-01 18:11:03] INFO: ✓ Environment: development
+[2026-04-01 18:11:09] INFO: ✓ All required environment variables are set
+[2026-04-01 18:11:35] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:11:36] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:12:00] INFO: ✓ All required environment variables are set
+[2026-04-01 18:12:02] INFO: ✓ Server running on port 5000
+[2026-04-01 18:12:02] INFO: ✓ Environment: development
+[2026-04-01 18:12:28] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 18:12:44] INFO: ✓ All required environment variables are set
+[2026-04-01 18:12:54] INFO: ✓ All required environment variables are set
+[2026-04-01 18:12:55] INFO: ✓ Server running on port 5000
+[2026-04-01 18:12:55] INFO: ✓ Environment: development
+[2026-04-01 18:12:59] INFO: ✓ All required environment variables are set
+[2026-04-01 18:13:40] INFO: ✓ All required environment variables are set
+[2026-04-01 18:13:42] INFO: ✓ Server running on port 5000
+[2026-04-01 18:13:42] INFO: ✓ Environment: development
+[2026-04-01 18:14:29] WARN: Client error: Refresh token not valid or expired
+[2026-04-01 18:16:03] INFO: ✓ All required environment variables are set
+[2026-04-01 18:16:18] INFO: ✓ All required environment variables are set
+[2026-04-01 18:17:01] INFO: ✓ All required environment variables are set
+[2026-04-01 18:17:05] INFO: ✓ All required environment variables are set
+[2026-04-01 18:17:07] INFO: ✓ Server running on port 5000
+[2026-04-01 18:17:07] INFO: ✓ Environment: development
+[2026-04-01 18:18:30] INFO: ✓ All required environment variables are set
+[2026-04-01 18:18:40] INFO: ✓ Server running on port 5000
+[2026-04-01 18:18:40] INFO: ✓ Environment: development
+[2026-04-01 18:18:44] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:19:13] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:19:13] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:19:18] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:20:01] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:20:28] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:20:29] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:20:30] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:20:35] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:22:56] INFO: ✓ All required environment variables are set
+[2026-04-01 18:22:58] INFO: ✓ Server running on port 5000
+[2026-04-01 18:22:58] INFO: ✓ Environment: development
+[2026-04-01 18:23:07] INFO: ✓ All required environment variables are set
+[2026-04-01 18:23:08] INFO: ✓ Server running on port 5000
+[2026-04-01 18:23:08] INFO: ✓ Environment: development
+[2026-04-01 18:23:24] INFO: ✓ All required environment variables are set
+[2026-04-01 18:23:26] INFO: ✓ Server running on port 5000
+[2026-04-01 18:23:26] INFO: ✓ Environment: development
+[2026-04-01 18:23:29] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:23:45] INFO: ✓ All required environment variables are set
+[2026-04-01 18:23:46] INFO: ✓ Server running on port 5000
+[2026-04-01 18:23:46] INFO: ✓ Environment: development
+[2026-04-01 18:23:50] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:23:51] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:23:54] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:24:33] WARN: Client error: Email already in use
+[2026-04-01 18:24:46] WARN: Validation failed for register: [{"field":"username","message":"Username can only contain alphanumeric characters"}]
+[2026-04-01 18:25:40] INFO: ✓ All required environment variables are set
+[2026-04-01 18:25:44] INFO: ✓ All required environment variables are set
+[2026-04-01 18:25:45] INFO: ✓ Server running on port 5000
+[2026-04-01 18:25:45] INFO: ✓ Environment: development
+[2026-04-01 18:26:03] INFO: ✓ All required environment variables are set
+[2026-04-01 18:26:05] INFO: ✓ Server running on port 5000
+[2026-04-01 18:26:05] INFO: ✓ Environment: development
+[2026-04-01 18:26:16] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 18:26:20] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 20:46:46] INFO: ✓ All required environment variables are set
+[2026-04-01 20:46:49] INFO: ✓ Server running on port 5000
+[2026-04-01 20:46:49] INFO: ✓ Environment: development
+[2026-04-01 20:46:56] INFO: ✓ All required environment variables are set
+[2026-04-01 20:46:58] INFO: ✓ Server running on port 5000
+[2026-04-01 20:46:58] INFO: ✓ Environment: development
+[2026-04-01 20:49:13] INFO: ✓ All required environment variables are set
+[2026-04-01 20:49:15] INFO: ✓ Server running on port 5000
+[2026-04-01 20:49:15] INFO: ✓ Environment: development
+[2026-04-01 20:49:18] INFO: ✓ All required environment variables are set
+[2026-04-01 20:57:05] INFO: ✓ All required environment variables are set
+[2026-04-01 20:57:06] INFO: ✓ Server running on port 5000
+[2026-04-01 20:57:06] INFO: ✓ Environment: development
+[2026-04-01 21:07:52] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:08:11] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:08:11] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 21:08:37] INFO: ✓ All required environment variables are set
+[2026-04-01 21:08:49] INFO: ✓ All required environment variables are set
+[2026-04-01 21:25:34] INFO: ✓ All required environment variables are set
+[2026-04-01 21:25:35] INFO: ✓ Server running on port 5000
+[2026-04-01 21:25:35] INFO: ✓ Environment: development
+[2026-04-01 21:25:37] INFO: ✓ All required environment variables are set
+[2026-04-01 21:26:16] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:26:50] INFO: ✓ All required environment variables are set
+[2026-04-01 21:29:17] INFO: ✓ All required environment variables are set
+[2026-04-01 21:29:18] INFO: ✓ Server running on port 5000
+[2026-04-01 21:29:18] INFO: ✓ Environment: development
+[2026-04-01 21:29:25] INFO: ✓ All required environment variables are set
+[2026-04-01 21:29:26] INFO: ✓ Server running on port 5000
+[2026-04-01 21:29:26] INFO: ✓ Environment: development
+[2026-04-01 21:29:29] INFO: ✓ All required environment variables are set
+[2026-04-01 21:29:31] INFO: ✓ Server running on port 5000
+[2026-04-01 21:29:31] INFO: ✓ Environment: development
+[2026-04-01 21:30:00] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:30:01] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:31:35] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:33:30] INFO: ✓ All required environment variables are set
+[2026-04-01 21:33:32] INFO: ✓ Server running on port 5000
+[2026-04-01 21:33:32] INFO: ✓ Environment: development
+[2026-04-01 21:34:07] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:34:07] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:34:29] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:34:29] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:36:45] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:36:46] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:36:57] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:36:57] WARN: Client error: Invalid email or password
+[2026-04-01 21:37:07] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:37:07] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:37:16] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:37:17] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:38:21] INFO: ✓ All required environment variables are set
+[2026-04-01 21:38:23] INFO: ✓ Server running on port 5000
+[2026-04-01 21:38:23] INFO: ✓ Environment: development
+[2026-04-01 21:38:30] INFO: ✓ All required environment variables are set
+[2026-04-01 21:38:31] INFO: ✓ Server running on port 5000
+[2026-04-01 21:38:31] INFO: ✓ Environment: development
+[2026-04-01 21:38:41] INFO: ✓ All required environment variables are set
+[2026-04-01 21:38:58] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:39:30] INFO: ✓ All required environment variables are set
+[2026-04-01 21:39:33] INFO: ✓ Server running on port 5000
+[2026-04-01 21:39:33] INFO: ✓ Environment: development
+[2026-04-01 21:40:18] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:40:18] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 21:40:55] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:40:55] WARN: Validation failed for register: [{"field":"email","message":"\"email\" is required"},{"field":"password","message":"\"password\" is required"},{"field":"name","message":"\"name\" is required"},{"field":"username","message":"\"username\" is required"}]
+[2026-04-01 21:41:09] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:41:09] WARN: Client error: Email already in use
+[2026-04-01 21:41:41] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:41:41] WARN: Validation failed for register: [{"field":"","message":"\"value\" must be of type object"}]
+[2026-04-01 21:42:18] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:42:18] WARN: Validation failed for register: [{"field":"","message":"\"value\" must be of type object"}]
+[2026-04-01 21:42:39] INFO: Incoming POST /api/auth/register
+[2026-04-01 21:46:12] WARN: Client error: Not authorized
+[2026-04-01 21:46:22] WARN: Client error: userId is required
+[2026-04-01 21:46:35] WARN: Client error: Not authorized
+[2026-04-01 21:46:42] WARN: Client error: Not authorized
+[2026-04-01 21:47:01] WARN: Validation failed for createExpense: [{"field":"paidBy","message":"Paid by field is required"},{"field":"participants.0.userId","message":"\"participants[0].userId\" is not allowed to be empty"},{"field":"participants.0.share","message":"\"participants[0].share\" must be a positive number"},{"field":"participants.1.userId","message":"\"participants[1].userId\" is not allowed to be empty"},{"field":"participants.1.share","message":"\"participants[1].share\" must be a positive number"}]
+[2026-04-01 21:48:00] INFO: Incoming POST /api/auth/login
+[2026-04-01 21:49:01] INFO: Incoming POST /api/auth/login
+[2026-04-01 22:08:01] INFO: ✓ All required environment variables are set
+[2026-04-01 22:08:02] INFO: ✓ All required environment variables are set
+[2026-04-01 22:08:08] INFO: ✓ All required environment variables are set
+[2026-04-01 22:08:37] INFO: ✓ All required environment variables are set
+[2026-04-01 22:08:39] INFO: ✓ Server running on port 5000
+[2026-04-01 22:08:39] INFO: ✓ Environment: development
+[2026-04-01 22:09:39] INFO: ✓ All required environment variables are set
+[2026-04-01 22:09:55] INFO: ✓ All required environment variables are set
+[2026-04-01 22:09:56] INFO: ✓ Server running on port 5000
+[2026-04-01 22:09:56] INFO: ✓ Environment: development
+[2026-04-01 22:10:40] INFO: ✓ All required environment variables are set
+[2026-04-01 22:10:42] INFO: ✓ Server running on port 5000
+[2026-04-01 22:10:42] INFO: ✓ Environment: development
+[2026-04-01 22:43:08] INFO: ✓ All required environment variables are set
+[2026-04-01 22:43:08] ERROR: Server failed to start: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wshjqyt.mongodb.net
+[2026-04-02 18:55:30] INFO: ✓ All required environment variables are set
+[2026-04-02 18:55:33] INFO: ✓ Server running on port 5000
+[2026-04-02 18:55:33] INFO: ✓ Environment: development
+[2026-04-02 19:21:35] INFO: ✓ All required environment variables are set
+[2026-04-02 19:21:37] INFO: ✓ Server running on port 5000
+[2026-04-02 19:21:37] INFO: ✓ Environment: development
+[2026-04-02 19:21:43] INFO: Incoming POST /api/auth/register
+[2026-04-02 19:21:51] INFO: Incoming POST /api/auth/login
+[2026-04-02 19:50:54] WARN: Client error: Not authorized
+[2026-04-02 19:50:54] WARN: Client error: Not authorized
+[2026-04-02 19:50:54] WARN: Client error: Not authorized
+[2026-04-02 19:50:54] WARN: Client error: Not authorized
+[2026-04-02 19:51:00] WARN: Client error: Not authorized
+[2026-04-02 19:51:00] WARN: Client error: Not authorized
+[2026-04-02 19:51:00] WARN: Client error: Not authorized
+[2026-04-02 19:51:00] WARN: Client error: Not authorized
+[2026-04-02 19:52:37] WARN: Client error: Not authorized
+[2026-04-02 19:52:37] WARN: Client error: Not authorized
+[2026-04-02 19:54:01] INFO: Incoming POST /api/auth/login
+[2026-04-02 19:54:02] WARN: Client error: Invalid email or password
+[2026-04-02 19:54:31] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:05:04] WARN: Client error: Group not found
+[2026-04-02 20:05:04] WARN: Client error: Not authorized to view group expenses
+[2026-04-02 20:05:04] WARN: Client error: Not authorized to view group expenses
+[2026-04-02 20:05:04] WARN: Client error: Group not found
+[2026-04-02 20:05:04] WARN: Client error: Not authorized to view group expenses
+[2026-04-02 20:05:04] WARN: Client error: Group not found
+[2026-04-02 20:05:05] WARN: Client error: Group not found
+[2026-04-02 20:05:05] WARN: Client error: Not authorized to view group expenses
+[2026-04-02 20:05:05] WARN: Client error: Not authorized to view group expenses
+[2026-04-02 20:05:05] WARN: Client error: Group not found
+[2026-04-02 20:05:42] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:06:31] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:09:21] INFO: ✓ All required environment variables are set
+[2026-04-02 20:09:25] INFO: ✓ Server running on port 5000
+[2026-04-02 20:09:25] INFO: ✓ Environment: development
+[2026-04-02 20:10:26] INFO: ✓ All required environment variables are set
+[2026-04-02 20:10:28] INFO: ✓ Server running on port 5000
+[2026-04-02 20:10:28] INFO: ✓ Environment: development
+[2026-04-02 20:10:42] INFO: ✓ All required environment variables are set
+[2026-04-02 20:10:44] INFO: ✓ Server running on port 5000
+[2026-04-02 20:10:44] INFO: ✓ Environment: development
+[2026-04-02 20:10:50] INFO: ✓ All required environment variables are set
+[2026-04-02 20:10:51] INFO: ✓ Server running on port 5000
+[2026-04-02 20:10:51] INFO: ✓ Environment: development
+[2026-04-02 20:11:07] WARN: Client error: You already have a group with this name
+[2026-04-02 20:13:51] WARN: Client error: Not authorized
+[2026-04-02 20:13:51] WARN: Client error: Not authorized
+[2026-04-02 20:13:51] WARN: Client error: Not authorized
+[2026-04-02 20:13:51] WARN: Client error: Not authorized
+[2026-04-02 20:14:31] WARN: Client error: Not authorized
+[2026-04-02 20:14:31] WARN: Client error: Not authorized
+[2026-04-02 20:14:31] WARN: Client error: Not authorized
+[2026-04-02 20:14:31] WARN: Client error: Not authorized
+[2026-04-02 20:14:33] WARN: Client error: Not authorized
+[2026-04-02 20:14:33] WARN: Client error: Not authorized
+[2026-04-02 20:14:33] WARN: Client error: Not authorized
+[2026-04-02 20:14:33] WARN: Client error: Not authorized
+[2026-04-02 20:14:34] WARN: Client error: Not authorized
+[2026-04-02 20:14:34] WARN: Client error: Not authorized
+[2026-04-02 20:14:34] WARN: Client error: Not authorized
+[2026-04-02 20:14:34] WARN: Client error: Not authorized
+[2026-04-02 20:14:35] WARN: Client error: Not authorized
+[2026-04-02 20:14:35] WARN: Client error: Not authorized
+[2026-04-02 20:14:35] WARN: Client error: Not authorized
+[2026-04-02 20:14:35] WARN: Client error: Not authorized
+[2026-04-02 20:16:57] WARN: Client error: Not authorized
+[2026-04-02 20:16:57] WARN: Client error: Not authorized
+[2026-04-02 20:16:57] WARN: Client error: Not authorized
+[2026-04-02 20:16:57] WARN: Client error: Not authorized
+[2026-04-02 20:16:59] WARN: Client error: Not authorized
+[2026-04-02 20:16:59] WARN: Client error: Not authorized
+[2026-04-02 20:16:59] WARN: Client error: Not authorized
+[2026-04-02 20:16:59] WARN: Client error: Not authorized
+[2026-04-02 20:17:00] WARN: Client error: Not authorized
+[2026-04-02 20:17:00] WARN: Client error: Not authorized
+[2026-04-02 20:17:00] WARN: Client error: Not authorized
+[2026-04-02 20:17:00] WARN: Client error: Not authorized
+[2026-04-02 20:17:10] WARN: Client error: Not authorized
+[2026-04-02 20:17:10] WARN: Client error: Not authorized
+[2026-04-02 20:17:10] WARN: Client error: Not authorized
+[2026-04-02 20:17:10] WARN: Client error: Not authorized
+[2026-04-02 20:17:25] WARN: Client error: Not authorized
+[2026-04-02 20:17:25] WARN: Client error: Not authorized
+[2026-04-02 20:17:25] WARN: Client error: Not authorized
+[2026-04-02 20:17:25] WARN: Client error: Not authorized
+[2026-04-02 20:17:30] WARN: Client error: Not authorized
+[2026-04-02 20:17:30] WARN: Client error: Not authorized
+[2026-04-02 20:17:30] WARN: Client error: Not authorized
+[2026-04-02 20:17:30] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:17:39] WARN: Client error: Not authorized
+[2026-04-02 20:18:26] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:18:45] WARN: Validation failed for createExpense: [{"field":"paidBy","message":"Paid by field is required"},{"field":"participants.0.userId","message":"Participants are required"},{"field":"participants.0.share","message":"\"participants[0].share\" must be a positive number"}]
+[2026-04-02 20:41:17] WARN: Client error: Not authorized
+[2026-04-02 20:41:17] WARN: Client error: Not authorized
+[2026-04-02 20:41:17] WARN: Client error: Not authorized
+[2026-04-02 20:41:17] WARN: Client error: Not authorized
+[2026-04-02 20:41:21] WARN: Client error: Not authorized
+[2026-04-02 20:41:21] WARN: Client error: Not authorized
+[2026-04-02 20:41:21] WARN: Client error: Not authorized
+[2026-04-02 20:41:21] WARN: Client error: Not authorized
+[2026-04-02 20:41:26] WARN: Client error: Not authorized
+[2026-04-02 20:41:26] WARN: Client error: Not authorized
+[2026-04-02 20:41:26] WARN: Client error: Not authorized
+[2026-04-02 20:41:26] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:41:40] WARN: Client error: Not authorized
+[2026-04-02 20:42:00] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:42:01] INFO: Incoming POST /api/auth/login
+[2026-04-02 20:51:33] INFO: ✓ All required environment variables are set
+[2026-04-02 20:51:37] INFO: ✓ Server running on port 5000
+[2026-04-02 20:51:37] INFO: ✓ Environment: development
+[2026-04-02 20:51:38] INFO: ✓ All required environment variables are set
+[2026-04-02 20:51:40] INFO: ✓ Server running on port 5000
+[2026-04-02 20:51:40] INFO: ✓ Environment: development
+[2026-04-02 20:51:43] INFO: ✓ All required environment variables are set
+[2026-04-02 20:51:45] INFO: ✓ All required environment variables are set
+[2026-04-02 20:51:47] INFO: ✓ Server running on port 5000
+[2026-04-02 20:51:47] INFO: ✓ Environment: development
+[2026-04-02 20:51:48] INFO: ✓ All required environment variables are set
+[2026-04-02 20:51:50] INFO: ✓ Server running on port 5000
+[2026-04-02 20:51:50] INFO: ✓ Environment: development
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:46] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:57:55] WARN: Client error: Not authorized
+[2026-04-02 20:58:11] INFO: Incoming POST /api/auth/login
+[2026-04-02 21:01:08] INFO: ✓ All required environment variables are set
+[2026-04-02 21:01:11] INFO: ✓ Server running on port 5000
+[2026-04-02 21:01:11] INFO: ✓ Environment: development
+[2026-04-02 21:01:16] INFO: ✓ All required environment variables are set
+[2026-04-02 21:01:19] INFO: ✓ Server running on port 5000
+[2026-04-02 21:01:19] INFO: ✓ Environment: development
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:24] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:25] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:39] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:46] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:47] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:48] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:18:50] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:03] WARN: Client error: Not authorized
+[2026-04-02 21:21:18] INFO: Incoming POST /api/auth/login
+[2026-04-02 21:24:44] WARN: Client error: One or more members are invalid
+[2026-04-02 21:24:50] WARN: Client error: One or more members are invalid
+[2026-04-02 21:25:15] WARN: Client error: One or more members are invalid
+[2026-04-02 21:30:14] WARN: Client error: One or more members are invalid
+[2026-04-02 21:32:50] INFO: Incoming POST /api/auth/login
+[2026-04-02 21:32:50] WARN: Client error: Invalid email or password
+[2026-04-02 21:33:05] INFO: Incoming POST /api/auth/login
+[2026-04-02 21:39:52] WARN: Client error: Not authorized
+[2026-04-02 21:39:52] WARN: Client error: Not authorized
+[2026-04-02 21:39:52] WARN: Client error: Not authorized
+[2026-04-02 21:44:53] WARN: Client error: Not authorized
+[2026-04-02 21:44:53] WARN: Client error: Not authorized
+[2026-04-02 21:44:53] WARN: Client error: Not authorized
+[2026-04-02 21:44:53] WARN: Client error: Not authorized
+[2026-04-02 21:44:53] WARN: Client error: Not authorized
+[2026-04-02 21:44:54] WARN: Client error: Not authorized
+[2026-04-02 21:45:14] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:38] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:44] WARN: Client error: Not authorized
+[2026-04-03 21:03:58] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:02] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:13] WARN: Client error: Not authorized
+[2026-04-03 21:19:49] WARN: Client error: Not authorized
+[2026-04-03 21:19:49] WARN: Client error: Not authorized
+[2026-04-03 21:19:49] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:20:53] WARN: Client error: Not authorized
+[2026-04-03 21:21:04] WARN: Client error: Not authorized
+[2026-04-03 21:21:04] WARN: Client error: Not authorized
+[2026-04-03 21:21:04] WARN: Client error: Not authorized
+[2026-04-03 21:21:04] WARN: Client error: Not authorized
+[2026-04-03 21:21:31] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:23] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:25] WARN: Client error: Not authorized
+[2026-04-03 21:36:47] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:39:12] WARN: Client error: Not authorized
+[2026-04-03 21:39:12] WARN: Client error: Not authorized
+[2026-04-03 21:39:12] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:23] WARN: Client error: Not authorized
+[2026-04-03 21:39:40] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:39:40] WARN: Client error: Invalid email or password
+[2026-04-03 21:39:46] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:41:08] WARN: Client error: Not authorized to view group expenses
+[2026-04-03 21:41:08] WARN: Client error: Not a member of this group
+[2026-04-03 21:41:08] WARN: Client error: Not a member of this group
+[2026-04-03 21:48:12] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:50:28] INFO: ✓ All required environment variables are set
+[2026-04-03 21:50:30] INFO: ✓ Server running on port 5000
+[2026-04-03 21:50:30] INFO: ✓ Environment: development
+[2026-04-03 21:50:52] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:58:07] INFO: Incoming POST /api/auth/login
+[2026-04-03 21:58:07] WARN: Client error: Invalid email or password
+[2026-04-03 21:58:16] INFO: Incoming POST /api/auth/login
+[2026-04-03 22:08:21] WARN: Validation failed for createExpense: [{"field":"participants.0.share","message":"\"participants[0].share\" must be a positive number"},{"field":"participants.1.share","message":"\"participants[1].share\" must be a positive number"},{"field":"participants.2.share","message":"\"participants[2].share\" must be a positive number"}]
+[2026-04-05 14:30:50] WARN: Client error: Not authorized
+[2026-04-05 14:30:50] WARN: Client error: Not authorized
+[2026-04-05 14:30:50] WARN: Client error: Not authorized
+[2026-04-05 14:30:50] WARN: Client error: Not authorized
+[2026-04-05 15:25:30] WARN: Client error: Not authorized
+[2026-04-05 15:25:30] WARN: Client error: Not authorized
+[2026-04-05 15:25:30] WARN: Client error: Not authorized
+[2026-04-05 15:25:30] WARN: Client error: Not authorized
+[2026-04-05 15:26:28] WARN: Client error: Not authorized
+[2026-04-05 15:26:28] WARN: Client error: Not authorized
+[2026-04-05 15:26:28] WARN: Client error: Not authorized
+[2026-04-05 15:26:28] WARN: Client error: Not authorized
+[2026-04-05 15:29:49] WARN: Client error: Not authorized
+[2026-04-05 15:29:49] WARN: Client error: Not authorized
+[2026-04-05 15:29:49] WARN: Client error: Not authorized
+[2026-04-05 15:29:49] WARN: Client error: Not authorized
+[2026-04-05 15:30:33] WARN: Client error: Not authorized
+[2026-04-05 15:30:33] WARN: Client error: Not authorized
+[2026-04-05 15:30:33] WARN: Client error: Not authorized
+[2026-04-05 15:30:33] WARN: Client error: Not authorized
+[2026-04-05 15:30:41] WARN: Client error: Not authorized
+[2026-04-05 15:30:41] WARN: Client error: Not authorized
+[2026-04-05 15:30:41] WARN: Client error: Not authorized
+[2026-04-05 15:30:41] WARN: Client error: Not authorized
+[2026-04-07 12:07:55] INFO: ✓ All required environment variables are set
+[2026-04-07 12:07:57] INFO: ✓ Server running on port 5000
+[2026-04-07 12:07:57] INFO: ✓ Environment: development
+[2026-04-07 12:23:30] INFO: ✓ All required environment variables are set
+[2026-04-07 12:23:42] INFO: ✓ All required environment variables are set
+[2026-04-07 12:23:44] INFO: ✓ Server running on port 5000
+[2026-04-07 12:23:44] INFO: ✓ Environment: development
+[2026-04-07 12:24:18] WARN: Client error: Not authorized
+[2026-04-07 12:24:18] WARN: Client error: Not authorized
+[2026-04-07 12:24:18] WARN: Client error: Not authorized
+[2026-04-07 12:24:18] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:23] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:24:24] WARN: Client error: Not authorized
+[2026-04-07 12:27:48] INFO: Incoming POST /api/auth/login
+[2026-04-07 13:04:30] INFO: Incoming POST /api/auth/login
+[2026-04-07 13:16:32] INFO: ✓ All required environment variables are set
+[2026-04-07 13:16:38] INFO: ✓ Server running on port 5000
+[2026-04-07 13:16:38] INFO: ✓ Environment: development
+[2026-04-07 13:31:00] WARN: Client error: Not authorized
+[2026-04-07 13:31:00] WARN: Client error: Not authorized
+[2026-04-07 13:31:00] WARN: Client error: Not authorized
+[2026-04-07 13:31:00] WARN: Client error: Not authorized
+[2026-04-07 13:39:07] WARN: Client error: Not authorized
+[2026-04-07 13:39:07] WARN: Client error: Not authorized
+[2026-04-07 13:39:07] WARN: Client error: Not authorized
+[2026-04-07 13:39:07] WARN: Client error: Not authorized
+[2026-04-07 13:39:48] INFO: Incoming POST /api/auth/login
+[2026-04-07 13:39:49] INFO: Incoming POST /api/auth/login
+[2026-04-28 15:59:50] INFO: ✓ All required environment variables are set
+[2026-04-28 15:59:52] INFO: ✓ Server running on port 5000
+[2026-04-28 15:59:52] INFO: ✓ Environment: development
+[2026-04-28 16:00:12] WARN: Client error: Not authorized
+[2026-04-28 16:00:12] WARN: Client error: Not authorized
+[2026-04-28 16:00:12] WARN: Client error: Not authorized
+[2026-04-28 16:00:12] WARN: Client error: Not authorized
+[2026-04-28 16:00:30] WARN: Client error: Not authorized
+[2026-04-28 16:00:30] WARN: Client error: Not authorized
+[2026-04-28 16:00:30] WARN: Client error: Not authorized
+[2026-04-28 16:00:30] WARN: Client error: Not authorized
+[2026-04-28 16:00:39] WARN: Client error: Not authorized
+[2026-04-28 16:00:39] WARN: Client error: Not authorized
+[2026-04-28 16:00:39] WARN: Client error: Not authorized
+[2026-04-28 16:00:39] WARN: Client error: Not authorized
+[2026-04-28 16:02:56] WARN: Client error: Not authorized
+[2026-04-28 16:02:56] WARN: Client error: Not authorized
+[2026-04-28 16:02:56] WARN: Client error: Not authorized
+[2026-04-28 16:02:56] WARN: Client error: Not authorized
+[2026-04-28 16:06:25] INFO: Incoming POST /api/auth/login
+[2026-04-28 16:23:38] INFO: ✓ All required environment variables are set
+[2026-04-28 16:23:40] INFO: ✓ Server running on port 5000
+[2026-04-28 16:23:40] INFO: ✓ Environment: development
+[2026-04-28 16:25:46] INFO: ✓ All required environment variables are set
+[2026-04-28 16:25:48] INFO: ✓ Server running on port 5000
+[2026-04-28 16:25:48] INFO: ✓ Environment: development
+[2026-04-28 16:25:51] INFO: ✓ All required environment variables are set
+[2026-04-28 16:25:53] INFO: ✓ Server running on port 5000
+[2026-04-28 16:25:53] INFO: ✓ Environment: development
+[2026-04-28 16:25:55] INFO: ✓ All required environment variables are set
+[2026-04-28 16:25:57] INFO: ✓ Server running on port 5000
+[2026-04-28 16:25:57] INFO: ✓ Environment: development
+[2026-04-28 16:26:00] INFO: ✓ All required environment variables are set
+[2026-04-28 16:26:02] INFO: ✓ Server running on port 5000
+[2026-04-28 16:26:02] INFO: ✓ Environment: development
+[2026-04-28 16:34:14] INFO: ✓ All required environment variables are set
+[2026-04-28 16:34:16] INFO: ✓ Server running on port 5000
+[2026-04-28 16:34:16] INFO: ✓ Environment: development
+[2026-04-28 16:40:16] INFO: ✓ All required environment variables are set
+[2026-04-28 16:40:18] INFO: ✓ Server running on port 5000
+[2026-04-28 16:40:18] INFO: ✓ Environment: development
+[2026-04-28 16:46:39] INFO: ✓ All required environment variables are set
+[2026-04-28 16:46:41] INFO: ✓ Server running on port 5000
+[2026-04-28 16:46:41] INFO: ✓ Environment: development
+[2026-04-29 09:57:43] INFO: ✓ All required environment variables are set
+[2026-04-29 09:58:06] INFO: ✓ Server running on port 5000
+[2026-04-29 09:58:06] INFO: ✓ Environment: development
+[2026-04-29 09:59:35] INFO: Incoming POST /api/auth/login
+[2026-04-29 09:59:36] INFO: Incoming POST /api/auth/login
+[2026-05-01 10:57:54] INFO: ✓ All required environment variables are set
+[2026-05-01 10:58:00] INFO: ✓ Server running on port 5000
+[2026-05-01 10:58:00] INFO: ✓ Environment: development
+[2026-05-01 10:59:14] WARN: Client error: Not authorized
+[2026-05-01 10:59:14] WARN: Client error: Not authorized
+[2026-05-01 10:59:17] WARN: Client error: Not authorized
+[2026-05-01 10:59:17] WARN: Client error: Not authorized
+[2026-05-01 10:59:47] INFO: Incoming POST /api/auth/login
+[2026-05-01 11:00:44] WARN: Client error: Not authorized
+[2026-05-01 11:00:44] WARN: Client error: Not authorized
+[2026-05-01 11:00:47] WARN: Client error: Not authorized
+[2026-05-01 11:00:47] WARN: Client error: Not authorized
+[2026-05-01 11:00:47] WARN: Client error: Not authorized
+[2026-05-01 11:00:47] WARN: Client error: Not authorized
+[2026-05-01 11:59:48] WARN: Client error: Not authorized
+[2026-05-01 11:59:48] WARN: Client error: Not authorized
+[2026-05-01 11:59:54] WARN: Client error: Not authorized
+[2026-05-01 11:59:54] WARN: Client error: Not authorized
+[2026-05-01 11:59:54] WARN: Client error: Not authorized
+[2026-05-01 12:00:16] WARN: Client error: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:16] WARN: Client error: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:19] INFO: Incoming POST /api/auth/login
+[2026-05-01 12:00:21] INFO: Incoming POST /api/auth/login
+[2026-05-01 12:00:25] INFO: Incoming POST /api/auth/login
+[2026-05-01 12:00:49] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:51] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:55] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:01:47] INFO: Incoming POST /api/auth/login
+[2026-05-01 12:01:51] INFO: Incoming POST /api/auth/login
+[2026-05-01 20:57:21] WARN: Client error: Not authorized
+[2026-05-01 20:57:21] WARN: Client error: Not authorized
+[2026-05-01 23:57:06] INFO: ✓ All required environment variables are set
+[2026-05-01 23:57:07] INFO: ✓ Server running on port 5000
+[2026-05-01 23:57:07] INFO: ✓ Environment: development
+[2026-05-02 10:31:53] INFO: ✓ All required environment variables are set
+[2026-05-02 10:32:18] INFO: ✓ Server running on port 5000
+[2026-05-02 10:32:18] INFO: ✓ Environment: development
+[2026-05-02 10:36:36] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:39:49] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:39:49] WARN: Client error: Invalid email or password
+[2026-05-02 10:39:55] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:39:55] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:33] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:40:34] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:35] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:40:35] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:35] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:40:35] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:36] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:40:36] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:52] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:40:53] WARN: Client error: Invalid email or password
+[2026-05-02 10:40:57] INFO: Incoming POST /api/auth/login
+[2026-05-02 10:42:23] WARN: Client error: Not authorized
+[2026-05-02 10:42:23] WARN: Client error: Not authorized
+[2026-05-02 10:46:15] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:16] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:16] INFO: ✓ Environment: development
+[2026-05-02 10:46:22] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:23] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:23] INFO: ✓ Environment: development
+[2026-05-02 10:46:25] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:26] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:28] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:28] INFO: ✓ Environment: development
+[2026-05-02 10:46:31] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:32] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:32] INFO: ✓ Environment: development
+[2026-05-02 10:46:40] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:41] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:41] INFO: ✓ Environment: development
+[2026-05-02 10:46:41] INFO: ✓ All required environment variables are set
+[2026-05-02 10:46:43] INFO: ✓ Server running on port 5000
+[2026-05-02 10:46:43] INFO: ✓ Environment: development
+[2026-05-02 10:58:22] INFO: ✓ All required environment variables are set
+[2026-05-02 10:58:28] INFO: ✓ Server running on port 5000
+[2026-05-02 10:58:28] INFO: ✓ Environment: development
+[2026-05-02 11:06:52] INFO: ✓ All required environment variables are set
+[2026-05-02 11:06:53] INFO: ✓ Server running on port 5000
+[2026-05-02 11:06:53] INFO: ✓ Environment: development
+[2026-05-02 11:07:01] INFO: ✓ All required environment variables are set
+[2026-05-02 11:07:02] INFO: ✓ Server running on port 5000
+[2026-05-02 11:07:02] INFO: ✓ Environment: development
+[2026-05-02 11:07:03] INFO: ✓ All required environment variables are set
+[2026-05-02 11:07:05] INFO: ✓ Server running on port 5000
+[2026-05-02 11:07:05] INFO: ✓ Environment: development
+[2026-05-02 11:07:06] INFO: ✓ All required environment variables are set
+[2026-05-02 11:07:08] INFO: ✓ Server running on port 5000
+[2026-05-02 11:07:08] INFO: ✓ Environment: development
+[2026-05-02 11:10:33] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:35] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:36] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:37] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:39] INFO: ✓ Server running on port 5000
+[2026-05-02 11:10:39] INFO: ✓ Environment: development
+[2026-05-02 11:10:56] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:57] INFO: ✓ All required environment variables are set
+[2026-05-02 11:10:59] INFO: ✓ Server running on port 5000
+[2026-05-02 11:10:59] INFO: ✓ Environment: development
+[2026-05-02 11:11:06] INFO: ✓ All required environment variables are set
+[2026-05-02 11:11:08] INFO: ✓ Server running on port 5000
+[2026-05-02 11:11:08] INFO: ✓ Environment: development
+[2026-05-02 11:16:27] INFO: ✓ All required environment variables are set
+[2026-05-02 11:16:29] INFO: ✓ Server running on port 5000
+[2026-05-02 11:16:29] INFO: ✓ Environment: development
+[2026-05-02 11:19:35] INFO: ✓ All required environment variables are set
+[2026-05-02 11:19:37] INFO: ✓ All required environment variables are set
+[2026-05-02 11:19:39] INFO: ✓ Server running on port 5000
+[2026-05-02 11:19:39] INFO: ✓ Environment: development
+[2026-05-02 11:40:40] INFO: ✓ All required environment variables are set
+[2026-05-02 11:40:42] INFO: ✓ Server running on port 5000
+[2026-05-02 11:40:42] INFO: ✓ Environment: development
+[2026-05-02 11:41:00] INFO: ✓ All required environment variables are set
+[2026-05-02 11:41:03] INFO: ✓ Server running on port 5000
+[2026-05-02 11:41:03] INFO: ✓ Environment: development
+[2026-05-02 11:41:09] INFO: ✓ All required environment variables are set
+[2026-05-02 11:41:10] INFO: ✓ All required environment variables are set
+[2026-05-02 11:41:11] INFO: ✓ Server running on port 5000
+[2026-05-02 11:41:11] INFO: ✓ Environment: development
+[2026-05-02 11:41:25] WARN: Client error: Not authorized
+[2026-05-02 11:41:25] WARN: Client error: Not authorized
+[2026-05-02 11:41:35] INFO: Incoming POST /api/auth/login
+[2026-05-02 11:41:36] WARN: Client error: Invalid email or password
+[2026-05-02 11:41:40] INFO: Incoming POST /api/auth/login
+[2026-05-02 11:41:48] INFO: ✓ All required environment variables are set
+[2026-05-02 11:41:50] INFO: ✓ Server running on port 5000
+[2026-05-02 11:41:50] INFO: ✓ Environment: development
+[2026-05-02 11:42:09] INFO: ✓ All required environment variables are set
+[2026-05-02 11:42:10] INFO: ✓ All required environment variables are set
+[2026-05-02 11:42:12] INFO: ✓ All required environment variables are set
+[2026-05-02 11:42:14] INFO: ✓ Server running on port 5000
+[2026-05-02 11:42:14] INFO: ✓ Environment: development
+[2026-05-02 11:42:27] WARN: Client error: Not authorized
+[2026-05-02 11:42:27] WARN: Client error: Not authorized
+[2026-05-02 11:44:30] INFO: ✓ All required environment variables are set
+[2026-05-02 11:44:34] INFO: ✓ Server running on port 5000
+[2026-05-02 11:44:34] INFO: ✓ Environment: development
+[2026-05-02 11:45:16] INFO: Incoming POST /api/auth/login
+[2026-05-02 11:45:17] INFO: Incoming POST /api/auth/login
+[2026-05-02 11:48:32] INFO: ✓ All required environment variables are set
+[2026-05-02 11:48:35] INFO: ✓ Server running on port 5000
+[2026-05-02 11:48:35] INFO: ✓ Environment: development
+[2026-05-02 12:04:37] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:39] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:41] INFO: ✓ Server running on port 5000
+[2026-05-02 12:04:41] INFO: ✓ Environment: development
+[2026-05-02 12:04:47] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:48] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:50] INFO: ✓ Server running on port 5000
+[2026-05-02 12:04:50] INFO: ✓ Environment: development
+[2026-05-02 12:04:53] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:54] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:55] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:56] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:57] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:58] INFO: ✓ All required environment variables are set
+[2026-05-02 12:04:59] INFO: ✓ All required environment variables are set
+[2026-05-02 12:05:01] INFO: ✓ Server running on port 5000
+[2026-05-02 12:05:01] INFO: ✓ Environment: development
+[2026-05-02 12:12:49] INFO: ✓ All required environment variables are set
+[2026-05-02 12:12:51] INFO: ✓ Server running on port 5000
+[2026-05-02 12:12:51] INFO: ✓ Environment: development
+[2026-05-02 12:19:25] WARN: Client error: getaddrinfo ENOTFOUND ac-p4p3urq-shard-00-02.wshjqyt.mongodb.net
+[2026-05-02 12:19:39] INFO: Incoming POST /api/auth/login
+[2026-05-02 12:19:40] INFO: Incoming POST /api/auth/login
+[2026-05-02 12:20:41] ERROR: Server error:: read ECONNRESET
+[2026-05-02 12:20:41] ERROR: Server error:: read ECONNRESET
+[2026-05-02 12:20:44] INFO: Incoming POST /api/auth/login
+[2026-05-02 12:20:46] INFO: Incoming POST /api/auth/login
+[2026-05-02 12:21:28] ERROR: Server error:: This request is no longer pending
+[2026-05-02 13:05:41] INFO: ✓ All required environment variables are set
+[2026-05-02 13:05:43] INFO: ✓ All required environment variables are set

@@ -1,0 +1,15 @@
+[2026-03-29 15:11:39] ERROR: Server failed to start: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wshjqyt.mongodb.net
+[2026-04-01 18:12:28] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:30:01] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:34:07] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:34:29] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:36:46] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:37:07] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 21:37:17] ERROR: Server error:: Cannot read properties of undefined (reading 'push')
+[2026-04-01 22:43:08] ERROR: Server failed to start: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wshjqyt.mongodb.net
+[2026-05-01 12:00:49] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:51] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-01 12:00:55] ERROR: Server error:: connect ECONNREFUSED 159.41.197.10:27017
+[2026-05-02 12:20:41] ERROR: Server error:: read ECONNRESET
+[2026-05-02 12:20:41] ERROR: Server error:: read ECONNRESET
+[2026-05-02 12:21:28] ERROR: Server error:: This request is no longer pending

@@ -1,0 +1,227 @@
+/* ============================================
+   NAVBAR STYLES
+   ============================================ */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  padding: 0 24px;
+  gap: 24px;
+  background: var(--glass-background);
+  border-bottom: 1px solid var(--border-color);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+
+/* ============================================
+   LEFT SECTION
+   ============================================ */
+
+.navLeft {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-shrink: 0;
+}
+
+.menuBtn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: var(--text-primary);
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.menuBtn:hover {
+  background: var(--bg-tertiary);
+}
+
+.pageTitle {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* ============================================
+   CENTER SECTION - SEARCH
+   ============================================ */
+
+.navCenter {
+  flex: 1;
+  max-width: 500px;
+  min-width: 200px;
+}
+
+/* ============================================
+   RIGHT SECTION
+   ============================================ */
+
+.navRight {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   THEME TOGGLE
+   ============================================ */
+
+.themeToggle {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.themeToggle:hover {
+  background: var(--bg-tertiary);
+  transform: scale(1.1);
+}
+
+/* ============================================
+   USER AVATAR
+   ============================================ */
+
+.userAvatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background: linear-gradient(
+    135deg,
+    var(--accent-primary),
+    var(--accent-secondary)
+  );
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.userAvatar:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-md);
+}
+
+.avatarInitials {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* ============================================
+   THEME TOGGLE
+   ============================================ */
+
+.themeToggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--text-primary);
+}
+
+.themeToggle:hover {
+  background: linear-gradient(
+    135deg,
+    var(--accent-primary),
+    var(--accent-secondary)
+  );
+  border-color: var(--accent-primary);
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(124, 58, 237, 0.3);
+  color: white;
+}
+
+.themeToggle:active {
+  transform: scale(0.95);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0 16px;
+  }
+
+  .menuBtn {
+    display: block;
+  }
+
+  .pageTitle {
+    font-size: 18px;
+  }
+
+  .navCenter {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    height: 56px;
+    padding: 0 12px;
+  }
+
+  .menuBtn {
+    display: block;
+    padding: 6px;
+  }
+
+  .pageTitle {
+    font-size: 16px;
+  }
+
+  .navRight {
+    gap: 10px;
+  }
+
+  .themeToggle {
+    width: 38px;
+    height: 38px;
+    font-size: 18px;
+  }
+
+  .userAvatar {
+    width: 36px;
+    height: 36px;
+  }
+
+  .avatarInitials {
+    font-size: 14px;
+  }
+
+  .navCenter {
+    display: none;
+  }
+}

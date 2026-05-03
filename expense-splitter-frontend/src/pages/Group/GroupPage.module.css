@@ -1,0 +1,747 @@
+/* ============================================
+   GROUP PAGE STYLES
+   ============================================ */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+
+/* ============================================
+   HEADER
+   ============================================ */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.headerInfo h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: var(--text-primary);
+}
+
+.headerInfo p {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.headerActions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.actionBtn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.addExpenseBtn {
+  background: linear-gradient(
+    135deg,
+    var(--accent-primary),
+    var(--accent-secondary)
+  );
+  color: white;
+}
+
+.addExpenseBtn:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-md);
+}
+
+.leaveBtn {
+  border: 1px solid var(--accent-error);
+  color: var(--accent-error);
+  background: transparent;
+}
+
+.leaveBtn:hover {
+  background: rgba(220, 38, 38, 0.1);
+}
+
+.deleteBtn {
+  background: var(--accent-error);
+  color: white;
+}
+
+.deleteBtn:hover {
+  opacity: 0.9;
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   GROUP BALANCES (YOU ↔ MEMBERS)
+   ============================================ */
+
+.balancesSection {
+  background: var(--glass-background);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 8px;
+}
+
+.balancesLead {
+  margin: 0 0 16px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.balancesLoading,
+.balancesSettled {
+  margin: 0;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.balancesSettled {
+  padding: 8px 0;
+}
+
+.balancesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.balanceColumn {
+  padding: 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+}
+
+.balanceColumnTitle {
+  margin: 0 0 12px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.balanceEmpty {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.45;
+}
+
+.balanceList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.balanceRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  font-size: 14px;
+}
+
+.balancePerson {
+  color: var(--text-primary);
+  font-weight: 600;
+  min-width: 0;
+}
+
+.balanceAmountOwe {
+  font-weight: 700;
+  color: var(--accent-error);
+  white-space: nowrap;
+}
+
+.balanceAmountReceive {
+  font-weight: 700;
+  color: var(--accent-success);
+  white-space: nowrap;
+}
+
+.balanceRowWithAction {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.balanceRowWithAction:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.balanceRowTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.balanceLine {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.requestSettlementBtn {
+  align-self: flex-start;
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 1px solid var(--accent-primary);
+  background: transparent;
+  color: var(--accent-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.requestSettlementBtn:hover {
+  background: rgba(124, 58, 237, 0.08);
+}
+
+.balanceActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.settleUpiBtn {
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 1px solid var(--accent-success);
+  background: transparent;
+  color: var(--accent-success);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.settleUpiBtn:hover:not(:disabled) {
+  background: rgba(34, 197, 94, 0.08);
+}
+
+.settleUpiBtn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  border-color: var(--border-color);
+  color: var(--text-muted);
+}
+
+.noUpiHint {
+  margin: 0;
+  font-size: 11px;
+  line-height: 1.4;
+  color: var(--text-muted);
+}
+
+/* ============================================
+   SETTLEMENT REQUESTS
+   ============================================ */
+
+.settlementRequestsSection {
+  background: var(--glass-background);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 8px;
+}
+
+.settlementLead {
+  margin: 0 0 20px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.settlementLoading {
+  margin: 0;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.settlementSubBlock {
+  margin-bottom: 24px;
+}
+
+.settlementSubBlock:last-child {
+  margin-bottom: 0;
+}
+
+.settlementSubTitle {
+  margin: 0 0 12px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.settlementEmpty {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.settlementList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.settlementCard {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+}
+
+.settlementCardMain {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.settlementCardTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 14px;
+  color: var(--text-primary);
+}
+
+.settlementAmount {
+  font-weight: 700;
+  color: var(--accent-primary);
+  white-space: nowrap;
+}
+
+.settlementMeta {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.settlementCardActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.btnApprove {
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent-success);
+  color: white;
+  cursor: pointer;
+}
+
+.btnReject {
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-primary);
+  cursor: pointer;
+}
+
+.btnCancelReq {
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 1px solid var(--accent-error);
+  background: transparent;
+  color: var(--accent-error);
+  cursor: pointer;
+}
+
+.statusBadge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  width: fit-content;
+}
+
+.status_pending {
+  background: rgba(245, 158, 11, 0.15);
+  color: #d97706;
+}
+
+.status_approved {
+  background: rgba(34, 197, 94, 0.15);
+  color: var(--accent-success);
+}
+
+.status_rejected {
+  background: rgba(239, 68, 68, 0.12);
+  color: var(--accent-error);
+}
+
+.status_cancelled {
+  background: rgba(148, 163, 184, 0.2);
+  color: var(--text-muted);
+}
+
+.settlementHistoryList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.settlementHistoryRow {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 12px;
+  align-items: center;
+  font-size: 13px;
+  padding: 10px 12px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+
+.settlementHistoryParties {
+  color: var(--text-secondary);
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .settlementHistoryRow {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+}
+
+/* ============================================
+   MEMBERS SECTION
+   ============================================ */
+
+.membersSection {
+  background: var(--glass-background);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 32px;
+}
+
+.sectionHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.adminMemberToolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.removeMembersToggleBtn {
+  padding: 8px 14px;
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.removeMembersToggleBtn:hover {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+
+.removeMembersToggleBtnActive {
+  border-color: var(--accent-error);
+  color: var(--accent-error);
+  background: rgba(239, 68, 68, 0.06);
+}
+
+.removeMembersToggleBtnActive:hover {
+  border-color: var(--accent-error);
+  color: var(--accent-error);
+}
+
+.sectionTitle {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.addMemberBtn {
+  padding: 8px 14px;
+  background: var(--accent-primary);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.addMemberBtn:hover {
+  opacity: 0.9;
+}
+
+.emptyState {
+  text-align: center;
+  padding: 30px;
+  color: var(--text-secondary);
+}
+
+.membersGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.memberCard {
+  padding: 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.memberCard:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--accent-primary);
+  transform: translateY(-4px);
+}
+
+.memberCardRemoveHint {
+  border-color: rgba(239, 68, 68, 0.35);
+}
+
+.memberCardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.memberInfo h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.memberUsername {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.adminBadge {
+  font-size: 12px;
+  color: var(--accent-success);
+  font-weight: 600;
+  background: rgba(16, 185, 129, 0.1);
+  padding: 4px 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.removeMemberBtn {
+  padding: 6px 10px;
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--accent-error);
+  border-radius: 6px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.removeMemberBtn:hover {
+  background: rgba(220, 38, 38, 0.1);
+  border-color: var(--accent-error);
+}
+
+/* ============================================
+   EXPENSES SECTION
+   ============================================ */
+
+.expensesSection {
+  background: var(--glass-background);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+}
+
+.expensesList {
+  display: grid;
+  gap: 12px;
+}
+
+.expenseItem {
+  padding: 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.2s ease;
+}
+
+.expenseItem:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.expenseDetails h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.expenseDescription {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.expenseAmount {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--accent-primary);
+}
+
+/* ============================================
+   LOADING STATE
+   ============================================ */
+
+.loadingContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: var(--bg-primary);
+}
+
+.spinner {
+  width: 48px;
+  height: 48px;
+  border: 4px solid var(--border-color);
+  border-top-color: var(--accent-primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 16px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loadingText {
+  color: var(--text-secondary);
+  font-size: 15px;
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+  .container {
+    padding: 16px;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .headerInfo h1 {
+    font-size: 24px;
+  }
+
+  .headerActions {
+    width: 100%;
+  }
+
+  .actionBtn {
+    flex: 1;
+    min-width: 100px;
+  }
+
+  .membersGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .expenseItem {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .expenseAmount {
+    align-self: flex-end;
+  }
+}
